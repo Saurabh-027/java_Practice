@@ -1,0 +1,9 @@
+com\admission\LoginServlet.class
+com\admission\dataServlet.class
+com\validation\StudentValidation.class
+com\insertion\StudentDataInsertion.class
+com\insertion\TeacherDataInsertion.class
+com\validation\TeacherValidation.class
+com\admission\LoginForwarderServlet.class
+com\validation\AdminValidation.class
+com\dbconnect\Dbconnector.class
