@@ -61,4 +61,9 @@ public class BinaryTree {
         }
 
     }
+
+   /* public void show(){
+        Node temp = root;
+
+    }*/
 }
